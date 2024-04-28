@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: localhost:8848
+
+  config:
+    import:
+      - nacos:service-pay-dev.yml
