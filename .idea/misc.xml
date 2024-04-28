@@ -5,7 +5,29 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service/service-cart-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-server-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-model/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-common/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-common/common-log/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-common/common-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-common/common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service-client/service-cart-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service-client/service-product-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service-client/service-user-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service/service-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service/service-order/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service/service-product/pom.xml" />
+        <option value="$PROJECT_DIR$/spzx-service/service-user/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spzx-service/service-cart-client/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">

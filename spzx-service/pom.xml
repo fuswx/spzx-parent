@@ -16,7 +16,7 @@
         <module>service-product</module>
         <module>service-user</module>
         <module>service-cart</module>
-        <module>service-cart-client</module>
+        <module>service-pay</module>
     </modules>
 
     <properties>
@@ -68,10 +68,10 @@
             <version>1.4.3</version>
         </dependency>
 
-        <!-- <dependency>
+        <dependency>
              <groupId>com.alibaba.cloud</groupId>
              <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
-         </dependency>-->
+         </dependency>
 
         <!-- 服务注册 -->
         <dependency>

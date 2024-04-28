@@ -17,7 +17,7 @@ public class Category extends BaseEntity {
 	private String imageUrl;
 
 	@Schema(description = "父节点id")
-	private Long parentId;
+	private Integer parentId;
 
 	@Schema(description = "分类状态: 是否显示[0-不显示，1显示]")
 	private Integer status;

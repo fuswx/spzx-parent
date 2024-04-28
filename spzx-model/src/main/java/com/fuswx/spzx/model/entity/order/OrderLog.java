@@ -11,7 +11,7 @@ public class OrderLog extends BaseEntity {
    private static final long serialVersionUID = 1L;
 
    @Schema(description = "订单id")
-   private Long orderId;
+   private Integer orderId;
 
    @Schema(description = "操作人：用户；系统；后台管理员")
    private String operateUser;

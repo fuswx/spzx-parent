@@ -22,4 +22,10 @@ public interface CartService {
 
     //清空购物车
     void clearCart();
+
+    //获取购物车选中商品列表
+    List<CartInfo> getAllChecked();
+
+    //远程调用：删除生成订单的购物车商品
+    void deleteChecked();
 }

@@ -14,7 +14,7 @@ public class PaymentInfo extends BaseEntity {
    private static final long serialVersionUID = 1L;
 
    @Schema(description = "用户id")
-   private Long userId;
+   private Integer userId;
 
    @Schema(description = "订单号")
    private String orderNo;

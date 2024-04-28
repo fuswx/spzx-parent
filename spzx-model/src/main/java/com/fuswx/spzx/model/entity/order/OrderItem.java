@@ -13,10 +13,10 @@ public class OrderItem extends BaseEntity {
    private static final long serialVersionUID = 1L;
 
    @Schema(description = "订单id")
-   private Long orderId;
+   private Integer orderId;
 
    @Schema(description = "商品sku编号")
-   private Long skuId;
+   private Integer skuId;
 
    @Schema(description = "商品sku名字")
    private String skuName;

@@ -10,7 +10,7 @@ import java.util.List;
 public class OrderInfoDto {
 
     //送货地址id
-    private Long userAddressId;
+    private Integer userAddressId;
 
     //运费
     private BigDecimal feightFee;

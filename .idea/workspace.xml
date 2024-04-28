@@ -4,7 +4,243 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d304a9ab-02b0-40e4-b3fc-53d6842194d0" name="更改" comment="" />
+    <list default="true" id="d304a9ab-02b0-40e4-b3fc-53d6842194d0" name="更改" comment="1">
+      <change afterPath="$PROJECT_DIR$/spzx-service-client/service-cart-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spzx-service-client/service-order-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-log/target/classes/com/fuswx/spzx/common/log/annotation/EnableLogAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-log/target/classes/com/fuswx/spzx/common/log/annotation/Log.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-log/target/classes/com/fuswx/spzx/common/log/aspect/LogAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-log/target/classes/com/fuswx/spzx/common/log/enums/OperatorType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-log/target/classes/com/fuswx/spzx/common/log/service/AsyncOperLogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-log/target/classes/com/fuswx/spzx/common/log/utils/LogUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-service/target/classes/com/fuswx/spzx/common/anno/EnableUserLoginAuthInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-service/target/classes/com/fuswx/spzx/common/config/Knife4jConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-service/target/classes/com/fuswx/spzx/common/config/UserWebMvcConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-service/target/classes/com/fuswx/spzx/common/exception/FuswxException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-service/target/classes/com/fuswx/spzx/common/exception/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-service/target/classes/com/fuswx/spzx/common/interceptor/UserLoginAuthInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-util/target/classes/com/fuswx/spzx/utils/AuthContextUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-util/target/classes/com/fuswx/spzx/utils/HttpUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-common/common-util/target/classes/com/fuswx/spzx/utils/HttpUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/fuswx/spzx/manager/lisener/ExcelListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/fuswx/spzx/manager/listener/ExcelListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/src/main/java/com/fuswx/spzx/manager/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-manager/src/main/java/com/fuswx/spzx/manager/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/application-dev.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/application-pro.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/ManagerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/config/WebMvcConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/BrandController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/CategoryBrandController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/CategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/FileUploadController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/OrderInfoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/ProductSpecController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/ProductUnitController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/SysMenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/SysRoleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/SysRoleMenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/controller/SysUserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/intercepor/LoginAuthInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/lisener/ExcelListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/BrandMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/CategoryBrandMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/CategoryMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/OrderInfoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/OrderStatisticsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/ProductDetailsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/ProductMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/ProductSkuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/ProductSpecMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/ProductUnitMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/SysMenuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/SysOperLogMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/SysRoleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/SysRoleMenuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/SysRoleUserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/mapper/SysUserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/properties/MinioProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/properties/UserProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/BrandService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/CategoryBrandService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/CategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/FileUploadService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/OrderInfoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/ProductSpecService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/ProductUnitService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/SysMenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/SysRoleMenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/SysRoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/SysUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/ValidateCodeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/AsyncOperLogServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/BrandServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/CategoryBrandServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/CategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/FileUploadServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/OrderInfoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/ProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/ProductSpecServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/ProductUnitServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/SysMenuServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/SysRoleMenuServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/SysRoleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/SysUserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/service/impl/ValidateCodeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/task/OrderStatisticsTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/com/fuswx/spzx/manager/utils/MenuHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/brand/BrandMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/category/CategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/log/SysOperLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/menu/SysMenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/menu/SysRoleMenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/order/OrderInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/order/OrderStatisticsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/product/CategoryBrandMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/product/ProductDetailsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/product/ProductMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/product/ProductSkuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/product/ProductSpecMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/product/ProductUnitMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/role/SysRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/user/SysRoleUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mapper/user/SysUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-manager/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/dto/h5/OrderInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/dto/h5/OrderInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/entity/order/OrderInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/entity/order/OrderInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/entity/order/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/entity/order/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/entity/order/OrderLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/entity/order/OrderLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/entity/pay/PaymentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/entity/pay/PaymentInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/entity/product/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/entity/product/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/entity/user/UserAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-model/src/main/java/com/fuswx/spzx/model/entity/user/UserAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/h5/OrderInfoDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/h5/ProductSkuDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/h5/UserLoginDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/h5/UserRegisterDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/order/OrderStatisticsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/product/CategoryBrandDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/product/ProductDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/product/SkuSaleDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/system/AssginMenuDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/system/AssginRoleDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/system/LoginDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/system/SysOperLogDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/system/SysRoleDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/dto/system/SysUserDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/GetBackGroundVideoParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/base/BaseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/base/ProductUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/base/Region.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/h5/CartInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/order/OrderInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/order/OrderItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/order/OrderLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/order/OrderStatistics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/pay/PaymentInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/product/Brand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/product/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/product/CategoryBrand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/product/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/product/ProductDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/product/ProductSku.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/product/ProductSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/system/SysMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/system/SysOperLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/system/SysRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/system/SysRoleUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/system/SysUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/user/UserAddress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/entity/user/UserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/vo/common/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/vo/common/ResultCodeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/vo/h5/IndexVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/vo/h5/ProductItemVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/vo/h5/TradeVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/vo/h5/UserInfoVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/vo/order/OrderStatisticsVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/vo/product/CategoryExcelVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/vo/system/LoginVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/vo/system/SysMenuVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-model/target/classes/com/fuswx/spzx/model/vo/system/ValidateCodeVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-server-gateway/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-server-gateway/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-server-gateway/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-server-gateway/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-server-gateway/target/classes/com/fuswx/spzx/gateway/GatewayApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-server-gateway/target/classes/com/fuswx/spzx/gateway/filter/AuthGlobalFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service-client/service-product-client/src/main/java/com/fuswx/spzx/feign/product/ProductFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service-client/service-product-client/src/main/java/com/fuswx/spzx/feign/product/ProductFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service-client/service-product-client/target/classes/com/fuswx/spzx/feign/product/ProductFeignClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-pay/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/src/main/java/com/fuswx/spzx/cart/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-cart/src/main/java/com/fuswx/spzx/cart/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/src/main/java/com/fuswx/spzx/cart/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-cart/src/main/java/com/fuswx/spzx/cart/service/CartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/src/main/java/com/fuswx/spzx/cart/service/impl/CartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-cart/src/main/java/com/fuswx/spzx/cart/service/impl/CartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-cart/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/classes/com/fuswx/spzx/cart/CartApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/classes/com/fuswx/spzx/cart/controller/CartController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/classes/com/fuswx/spzx/cart/service/CartService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-cart/target/classes/com/fuswx/spzx/cart/service/impl/CartServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-order/src/main/resources/application-dev.yml.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/src/main/java/com/fuswx/spzx/product/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-product/src/main/java/com/fuswx/spzx/product/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-product/src/main/resources/application-dev.yml.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-product/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/ProductApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/config/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/controller/BrandController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/controller/CategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/controller/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/mapper/BrandMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/mapper/CategoryMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/mapper/ProductDetailsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/mapper/ProductMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/mapper/ProductSkuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/service/BrandService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/service/CategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/service/impl/BrandServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/service/impl/CategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/com/fuswx/spzx/product/service/impl/ProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/mapper/product/BrandMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/mapper/product/CategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/mapper/product/ProductDetailsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/mapper/product/ProductMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/mapper/product/ProductSkuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-product/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-user/src/main/resources/application-dev.yml.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spzx-service/service-user/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/com/fuswx/spzx/user/UserApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/com/fuswx/spzx/user/controller/SmsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/com/fuswx/spzx/user/controller/UserInfoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/com/fuswx/spzx/user/mapper/UserInfoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/com/fuswx/spzx/user/service/SmsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/com/fuswx/spzx/user/service/UserInfoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/com/fuswx/spzx/user/service/impl/SmsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/com/fuswx/spzx/user/service/impl/UserInfoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/mapper/user/UserInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spzx-service/service-user/target/classes/mybatis-config.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +251,8 @@
       <list>
         <option value="Enum" />
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,13 +285,16 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2eFqqHyg7ieR84Va4GZPnCDtBEP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Maven.spzx-common [clean].executor&quot;: &quot;Run&quot;,
     &quot;Maven.spzx-parent [clean].executor&quot;: &quot;Run&quot;,
     &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
     &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
@@ -66,13 +305,15 @@
     &quot;Spring Boot.CartApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.GatewayApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.ManagerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.OrderApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.PayApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.ProductApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.UserApplication.executor&quot;: &quot;Run&quot;,
     &quot;StatusDashboardGroupingRule&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/学习-网/尚品甄选/代码/后端/spzx-parent&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/Projects/Deformation_monitoring_system&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -103,11 +344,11 @@
       <recent name="com.fuswx.spzx.manager.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\Projects\北京自学项目\尚品甄选\后端\spzx-parent\spzx-manager\src\main\resources\mapper\user" />
-      <recent name="D:\Java\Projects\北京自学项目\尚品甄选\后端\spzx-parent\spzx-service\service-user\src\main\resources" />
-      <recent name="D:\Java\Projects\北京自学项目\尚品甄选\后端\spzx-parent\spzx-service\service-user\src\main\resources\mapper" />
-      <recent name="D:\Java\Projects\北京自学项目\尚品甄选\后端\spzx-parent\spzx-service\service-product\src\main\resources" />
-      <recent name="D:\Java\Projects\北京自学项目\尚品甄选\后端\spzx-parent\spzx-manager\src\main\resources" />
+      <recent name="D:\Java\Projects\北京自学项目\尚品甄选\后端\spzx-parent\spzx-service\service-cart\src\main\resources" />
+      <recent name="D:\Java\Projects\北京自学项目\尚品甄选\后端\spzx-parent\spzx-service\service-pay\src\main\resources" />
+      <recent name="D:\Java\Projects\北京自学项目\尚品甄选\后端\spzx-parent\spzx-service\service-pay\src\main\resources\mapper\pay" />
+      <recent name="D:\Java\Projects\北京自学项目\尚品甄选\后端\spzx-parent\spzx-service\service-order\src\main\resources\mapper\order" />
+      <recent name="D:\Java\Projects\北京自学项目\尚品甄选\后端\spzx-parent\spzx-service-client\service-cart-client\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\Projects\北京自学项目\尚品甄选\后端\spzx-parent\spzx-service\service-user\src\main\resources" />
@@ -152,12 +393,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spzx-server-gateway" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fuswx.spzx.gateway.GatewayApplication" />
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fuswx.spzx.order.OrderApplication" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fuswx.spzx.gateway.*" />
+          <option name="PATTERN" value="com.fuswx.spzx.order.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +406,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spzx-manager" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fuswx.spzx.manager.ManagerApplication" />
+    <configuration name="PayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fuswx.spzx.pay.PayApplication" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fuswx.spzx.manager.*" />
+          <option name="PATTERN" value="com.fuswx.spzx.pay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +447,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.UserApplication" />
-        <item itemvalue="Spring Boot.GatewayApplication" />
         <item itemvalue="Spring Boot.ProductApplication" />
-        <item itemvalue="Spring Boot.ManagerApplication" />
+        <item itemvalue="Spring Boot.PayApplication" />
+        <item itemvalue="Spring Boot.OrderApplication" />
         <item itemvalue="Spring Boot.CartApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +520,15 @@
       <workItem from="1713497590231" duration="615000" />
       <workItem from="1713498212363" duration="13000" />
       <workItem from="1713498231524" duration="1166000" />
-      <workItem from="1713507361102" duration="966000" />
+      <workItem from="1713523982974" duration="946000" />
+      <workItem from="1713524946798" duration="2803000" />
+      <workItem from="1713528470114" duration="18026000" />
+      <workItem from="1713607447642" duration="25643000" />
+      <workItem from="1713752790908" duration="9092000" />
+      <workItem from="1713776522464" duration="20416000" />
+      <workItem from="1714027202757" duration="1863000" />
+      <workItem from="1714042220749" duration="3563000" />
+      <workItem from="1714266316746" duration="1756000" />
     </task>
     <servers />
   </component>
@@ -304,6 +553,24 @@
           <url>file://$PROJECT_DIR$/spzx-manager/src/main/java/com/fuswx/spzx/manager/service/impl/SysUserServiceImpl.java</url>
           <line>150</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spzx-service/service-product/src/main/java/com/fuswx/spzx/product/service/impl/CategoryServiceImpl.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spzx-service/service-pay/src/main/java/com/fuswx/spzx/pay/service/impl/PaymentInfoServiceImpl.java</url>
+          <line>43</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spzx-service/service-pay/src/main/java/com/fuswx/spzx/pay/service/impl/PaymentInfoServiceImpl.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/spzx-common/common-log/src/main/java/com/fuswx/spzx/common/log/service/AsyncOperLogService.java</url>

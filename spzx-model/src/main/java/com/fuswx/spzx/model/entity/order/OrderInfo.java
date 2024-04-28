@@ -15,7 +15,7 @@ public class OrderInfo extends BaseEntity {
 	private static final long serialVersionUID = 1L;
 
 	@Schema(description = "会员_id")
-	private Long userId;
+	private Integer userId;
 
 	@Schema(description = "昵称")
 	private String nickName;
